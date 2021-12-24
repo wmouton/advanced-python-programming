@@ -1,3 +1,3 @@
 # Lists: ordered, mutable, allows duplicate elements
-my_list = ["banana", "apple", "pear"]
+my_list = ["bitcoin", "ethereum", "monero"]
 print(my_list)

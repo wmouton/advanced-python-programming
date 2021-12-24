@@ -1,2 +1,2 @@
-data_list = [3, True, "apple", "apple"]
+data_list = [3, True, "bitcoin", "monero"]
 print(data_list)
